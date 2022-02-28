@@ -14,8 +14,8 @@
     "type":    "library",
     "license": "MIT",
     "require": {
-        "php": "^7.3|^8.0",
-        "arcanedev/support": "^8.0"
+        "php": "^7.3|^8.0|^8.1",
+        "arcanedev/support": "^8.0|^9.0"
     },
     "require-dev": {
         "mockery/mockery": "^1.4.2",
